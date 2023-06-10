@@ -19,15 +19,13 @@ Here's a walkthrough of implemented user stories:
 
 <img src='file:///private/var/folders/dq/msc1gwh14g59m1svkdcyzrjh0000gn/T/ffd6c3f275396c9c51e451d148f3bcf0/Kapture%202023-06-10%20at%2000.00.52.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-
+    Snapchat's sliding feature
+    Netflix's spinning wheel when loading
+    Instagram's background color
 ## Notes
 
 Describe any challenges encountered while building the app.
